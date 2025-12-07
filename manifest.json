@@ -1,0 +1,21 @@
+{
+  "short_name": "HekmatAra",
+  "name": "بازرگانی حکمت آرا",
+  "icons": [
+    {
+      "src": "https://cdn.imgurl.ir/uploads/g946978_logo_hekmat_ara_latin_copy.jpg",
+      "type": "image/jpeg",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://cdn.imgurl.ir/uploads/g946978_logo_hekmat_ara_latin_copy.jpg",
+      "type": "image/jpeg",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#1e3a8a",
+  "background_color": "#ffffff",
+  "orientation": "portrait"
+}
